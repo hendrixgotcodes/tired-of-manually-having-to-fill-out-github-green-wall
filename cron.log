@@ -54,3 +54,4 @@ To github.com:hendrixgotcodes/tired-of-manually-having-to-fill-out-github-green-
  1 file changed, 5 insertions(+)
 To github.com:hendrixgotcodes/tired-of-manually-having-to-fill-out-github-green-wall.git
    78d82c3..093666a  master -> master
+/root/bin/gh-auto-contribute: 4: node: not found
