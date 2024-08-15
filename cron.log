@@ -164,3 +164,11 @@ To github.com:hendrixgotcodes/tired-of-manually-having-to-fill-out-github-green-
    a314566..f7e137a  master -> master
 files:  [ '.git', 'cron.log', 'day-21.txt', 'modifier.js' ]
 🇬🇭❤️
+[master 854760a] gniK tsirhC
+ 3 files changed, 9 insertions(+), 1 deletion(-)
+ delete mode 100644 day-21.txt
+ create mode 100644 day-22.txt
+To github.com:hendrixgotcodes/tired-of-manually-having-to-fill-out-github-green-wall.git
+   f7e137a..854760a  master -> master
+files:  [ '.git', 'cron.log', 'day-22.txt', 'modifier.js' ]
+🇬🇭❤️
