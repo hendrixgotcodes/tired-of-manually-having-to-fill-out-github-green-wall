@@ -1,4 +1,4 @@
-# 😩 tired-of-manually-having-to-fill-out-github-green-wall
+# tired-of-manually-having-to-fill-out-github-green-wall
 
 Automated commit system to keep your GitHub contributions graph green — without lifting a finger.
 
