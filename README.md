@@ -51,3 +51,6 @@ This script runs a daily scheduled task that updates a dummy file and pushes a c
      ```
         crontab -e
      ```
+
+Made with ❤️
+Make sure to follow me
